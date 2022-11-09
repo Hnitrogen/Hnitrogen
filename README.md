@@ -8,7 +8,7 @@ My Tech Stack:
 - [x] C / C++
   - [x] Basic
   - [] Desktop Application development via QT
-  - [ ] Computer Graphics (Learning)
+  - [ ] Computer Graphics (SCHEDULE)
   - [ ] Parallel and High performance programming (Interested, not yet scheduled)
   - [ ] Complex algorithms (ACM-oriented)
 - [] C#
@@ -18,21 +18,22 @@ My Tech Stack:
   - [ ] Basic UWP development (Interested, not yet scheduled)
 - [x] Python
   - [x] Basic
+  - [ ] Scrap/web crwal (Learning)
   - [] Basic AI algorithms (SA, BPNN, etc)
   - [ ] Complex AI algorithms (NLP, etc) (NOT IN SCHEDULE)
 - [] Dart
   - [] Flutter front-end development
   - [] Dart back-end development
-- [ ] Rust (Scheduled)
-- [ ] Go (Sheduled)
-- [ ] Swift (Scheduled)
-- [ ] Java (Scheduled)
+- [ ] Rust 
+- [ ] Go 
+- [ ] Swift 
+- [ ] Java 
 - [x] Web Stack
   - [x] JS / TS basic syntax & feature
   - [x] HTML
   - [x] CSS
   - [ ] Angular (Can fix stuff but can't write from scratch) (NOT IN SCHEDULE)
-  - [ ] React (Learning)
+  - [ ] React 
   - [ ] Vue (Interested, not yet scheduled)
   - [ ] Uniapp (NOT IN SCHEDULE)
 
