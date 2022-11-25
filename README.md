@@ -2,6 +2,13 @@
 
 A alogrithmer , noob , shell addicted developer .
 
+Work on
+```
+1 script for leetcode new scores 
+2 frp 
+3 nas deploy
+4 django webiste back
+```
 Lots to do & lots to learn.
 
 My Tech Stack:
