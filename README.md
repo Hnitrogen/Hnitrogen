@@ -5,11 +5,12 @@ A alogrithmer , noob , shell addicted developer .
 Work on
 ```
 1 script for leetcode new scores 
-2 django webiste back 
+2 django webiste --- video - acg 
          --- alist - aliyun - api - 解决带宽问题 --- 有没有一种可能阿里云也是一种Oauth hhhh 
          --- django - db - sqlite3够用了 - Mysql没必要
          --- aligo-api --- get video 
          --- bili > - font - cv 
+3 archlinux-paste-bin / cloud-paste/reminder 
 ```
 Lots to do & lots to learn.
 
