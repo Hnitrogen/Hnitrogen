@@ -25,7 +25,7 @@ My Tech Stack:
 - [x] Python
   - [x] Basic
   - [ ] Scrap/web crwal (Learning)
-  - [ ] Django webframe (Need More Studied on database )
+  - [ ] Django webframe (Deep with DRS )
   - [ ] Basic AI algorithms (SA, BPNN, etc)
   - [ ] Complex AI algorithms (NLP, etc) (NOT IN SCHEDULE)
 - [] Dart
