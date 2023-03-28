@@ -6,6 +6,7 @@ Work on
 ```
 1 script for leetcode new scores 
 2 boost cpp in python framework 
+3 online compiler base go-judge 
 ```
 Lots to do & lots to learn.
 
