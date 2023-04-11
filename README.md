@@ -6,7 +6,7 @@ Work on
 ```
 1 script for leetcode new scores 
 2 boost cpp in python framework 
-3 online compiler base go-judge 
+3 pacs web project aimed 
 ```
 Lots to do & lots to learn.
 
@@ -25,7 +25,7 @@ My Tech Stack:
 - [x] Python
   - [x] Basic
   - [ ] Scrap/web crwal (Learning)
-  - [x] Django webframe (Deep with DRS )
+  - [x] Django webframe (Deep with DRS and project)
   - [ ] Basic AI algorithms (SA, BPNN, etc)
   - [ ] Complex AI algorithms (NLP, etc) (NOT IN SCHEDULE)
 - [] Dart
