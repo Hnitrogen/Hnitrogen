@@ -25,7 +25,7 @@ My Tech Stack:
 - [x] Python
   - [x] Basic
   - [ ] Scrap/web crwal (Learning)
-  - [x] Django webframe (Deep with DRS and project)
+  - [x] Django webframe (JWT and Payment)
   - [ ] Basic AI algorithms (SA, BPNN, etc)
   - [ ] Complex AI algorithms (NLP, etc) (NOT IN SCHEDULE)
 - [] Dart
@@ -39,8 +39,8 @@ My Tech Stack:
   - [x] JS / TS basic syntax & feature
   - [x] HTML
   - [x] CSS
-  - [ ] Angular (NOT IN SCHEDULE)
   - [x] React(Initial learning) 
   - [x] Vue (need pratice)
+  - [ ] Angular (NOT IN SCHEDULE)
   - [ ] Uniapp (NOT IN SCHEDULE)
 
