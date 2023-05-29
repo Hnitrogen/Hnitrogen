@@ -7,6 +7,9 @@ Work on
 1 script for leetcode new scores 
 2 boost cpp in python framework 
 3 pacs web project aimed 
+4 gal-oj 
+5 fakelocation - running 
+6 webshell musicplayer 
 ```
 Lots to do & lots to learn.
 
