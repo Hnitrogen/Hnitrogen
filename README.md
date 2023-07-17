@@ -1,6 +1,7 @@
 ### About me
 
 A alogrithmer , noob , shell addicted developer .
+努力成为🐎神！
 
 Work on
 ```
