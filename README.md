@@ -5,12 +5,7 @@ A alogrithmer , noob , shell addicted developer .
 
 Work on
 ```
-1 script for leetcode new scores 
-2 boost cpp in python framework 
-3 pacs web project aimed 
-4 gal-oj 
-5 fakelocation - running 
-6 webshell musicplayer 
+Uninspired
 ```
 Lots to do & lots to learn.
 
@@ -29,22 +24,30 @@ My Tech Stack:
 - [x] Python
   - [x] Basic
   - [ ] Scrap/web crwal (Learning)
-  - [x] Django webframe (JWT and Payment)
+  - [x] Django webframe 
+    - [x] WxPayment realized by Repo(WxpayV3) 
+    - [ ] Uwsgi QPS 
+    - [ ] cluster in django 
+    - [ ] Drf source code
   - [ ] Basic AI algorithms (SA, BPNN, etc)
-  - [ ] Complex AI algorithms (NLP, etc) (NOT IN SCHEDULE)
+  - [ ] Complex AI algorithms (NLP, etc) 
+    - [x] try sd and make AI animation
+    - [ ] Chatglm    
 - [] Dart
   - [] Flutter front-end development
   - [] Dart back-end development
 - [ ] Rust 
 - [ ] Go 
+  - new to Go 
 - [ ] Swift 
 - [ ] Java 
+  - [x] Sprinboot & Mybatis-plus Simple CRUD  
 - [x] Web Stack
   - [x] JS / TS basic syntax & feature
   - [x] HTML
   - [x] CSS
   - [x] React(Initial learning) 
-  - [x] Vue (need pratice)
+  - [x] Vue 
   - [ ] Angular (NOT IN SCHEDULE)
   - [ ] Uniapp (NOT IN SCHEDULE)
 
