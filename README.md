@@ -12,7 +12,7 @@ Lots to do & lots to learn.
 My Tech Stack:
 - [x] C / C++
   - [x] Basic
-  - [] Desktop Application development via QT
+  - [ ] Desktop Application development via QT
   - [ ] Computer Graphics (SCHEDULE)
   - [ ] Parallel and High performance programming (Interested, not yet scheduled)
   - [ ] Complex algorithms (ACM-oriented)
